@@ -106,7 +106,7 @@ translate english Boat_2_1_0dc1f10a:
 translate english Boat_2_2_ef09c6af:
 
     # ch_Name "{i}(I can't help the sadness every time I swim back to the academy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I can't help the sadness every time I sail back to the academy.){/i}"
 
 # game/logic/story/logic.rpy:1147
 translate english Boat_2_2_a9451fa2:
@@ -226,7 +226,7 @@ translate english Boat_2_3_17b66340:
 translate english Boat_2_3_40232474:
 
     # ch_Name "{i}(I spent the rest of the trip telling Hayley about Willow's photoshoot.){/i}"
-    ch_Name ""
+    ch_Name "{i}(I spent the rest of the trip telling Haley about Willow's photoshoot.){/i}"
 
 # game/logic/story/logic.rpy:1181
 translate english Boat_2_3_dd63f61b:
